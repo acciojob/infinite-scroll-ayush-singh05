@@ -10,6 +10,8 @@
 li {
   padding: 10px;
   list-style-type: none;
+  display: block;
+	
 }
 li:hover {
   background: #ccc;
